@@ -11,4 +11,4 @@ with open(message_file, "r") as file:
 message = input("What would you like to say? ")
 
 with open(message_file, "a") as file:
-    file.write(f"[{name}]: {message}")
+    file.write(f"[{name}]: {message} \n")
