@@ -1,2 +1,4 @@
 [Leigha VanOrsdol]: Hello!
-[Leigha VanOrsdol]: Whst si your name?[Leigha VanOrsdol]: My namw is Leigha 
+[Leigha VanOrsdol]: What is your name?
+[Leigha VanOrsdol]: My name is Leigha 
+[Leigha VanOrsdol]: Commit 3 again because I think I made a mistake 
