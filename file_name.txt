@@ -1,3 +1,5 @@
 [Leigha VanOrsdol]: Hello!
-[Leigha VanOrsdol]: Whst si your name?[Leigha VanOrsdol]: My namw is Leigha 
-[Leigha VanOrsdol]: This project is insightful 
+[Leigha VanOrsdol]: What is your name?
+[Leigha VanOrsdol]: My name is Leigha 
+[Leigha VanOrsdol]: Commit 3 again because I think I made a mistake
+[Leigha VanOrsdol]: This project is insightful [Leigha VanOrsdol]: is manually editing the text file really the best way to resolve merge conflicts? 
